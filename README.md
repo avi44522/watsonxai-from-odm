@@ -31,4 +31,4 @@ The simple use case for testing is about deciding how to dispose from a customer
 ### Sample execution
 
 - Run `mvn install package` in the `watsonx-helper` folder to compile and package the the uber jar used for the ODM XOM. 
-- Run the `reviewDisposition` decision operation to test the rules.
+- Run the `analyzeCustomerReview` decision operation to test the rules.
